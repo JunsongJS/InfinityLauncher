@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 运行时生成的配置（可能含登录令牌）与图片目录
+config.json
+Photo/
+
+# 日志
+*.log
+
+# 打包产物
+build/
+dist/
+*.spec
+
+# IDE
+.idea/
+.vscode/
